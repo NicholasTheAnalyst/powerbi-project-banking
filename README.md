@@ -38,3 +38,12 @@
 * **СУБД:** MySQL
 * **Язык обработки данных:** Python (`pandas`, `matplotlib`, коннекторы к БД)
 * **BI-аналитика:** Power BI
+
+## 📊 Визуализация дашборда (Power BI)
+
+Ниже представлены ключевые страницы дашборда, разработанного в Power BI для анализа банковских данных:
+
+1. **Home Page** ![Home](screenshots/01_dashboard_home.png)
+2. **Loan Analysis** ![Loan](screenshots/02_loan_analysis.png)
+3. **Deposit Analysis** ![Deposit](screenshots/03_deposit_analysis.png)
+4. **Summary** ![Summary](screenshots/04_summary.png)
